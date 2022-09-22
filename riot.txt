@@ -1,11 +1,1 @@
- OmegaTiers is a Twitch extension that appears on a streamer panel. Any streamer can install it for free. Any viewer on the Twitch channel has access to it for free.
-
- The extension is giving information about a chosen player.
-A user on Twitch can use a search bar to fetch information about a League of Legend player. The API we are using are:
---SUMMONER-V4
---LEAGUE-V4
---MATCH-V5
-
- We build this app because we though it would be really convenient for LoL communities on Twitch to be able to access those kind of information without leaving Twitch.
-
- The information OmegaTiers displays exclusively comes from Riot API.
+75112cea-808f-4db1-8347-5c7048e5f310
